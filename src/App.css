@@ -1,4 +1,5 @@
-.App {
+/* before deleting all content 4. Exercise: React Components Part 2 */
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +36,18 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.card-title {
+  font: 500 1.25rem "Lobster", cursive;
+}
+
+.card-img-overlay .card-title {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
 }
